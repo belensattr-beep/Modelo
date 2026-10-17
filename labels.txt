@@ -1,0 +1,4 @@
+0 Pieza_OK
+1 Chatter
+2 Rayadura
+3 Rebaba
